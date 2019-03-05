@@ -16,7 +16,7 @@ build:
   ci:
     - ls
     - pwd
-    - docker pull shippabledocker/sample_node_pvt:ecr
+    #- docker pull shippabledocker/sample_node_pvt:ecr
     
 integrations:    
   hub:
